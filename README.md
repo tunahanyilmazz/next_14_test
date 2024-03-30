@@ -30,4 +30,4 @@ yarn dev
 
 ### Author: [Mustafa Azim](https://github.com/mazimcoder)
 
-Test 1 
+Test 2
